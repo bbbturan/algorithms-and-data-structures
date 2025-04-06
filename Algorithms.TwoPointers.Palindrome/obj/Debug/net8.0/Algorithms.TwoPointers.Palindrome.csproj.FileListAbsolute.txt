@@ -1,0 +1,15 @@
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointers.Palindrome\obj\Debug\net8.0\Algorithms.TwoPointers.Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointers.Palindrome\obj\Debug\net8.0\Algorithms.TwoPointers.Palindrome.AssemblyInfoInputs.cache
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointers.Palindrome\obj\Debug\net8.0\Algorithms.TwoPointers.Palindrome.AssemblyInfo.cs
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointers.Palindrome\obj\Debug\net8.0\Algorithms.TwoPointers.Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointers.Palindrome\obj\Debug\net8.0\Algorithms.TwoPointers.Palindrome.sourcelink.json
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointers.Palindrome\bin\Debug\net8.0\Algorithms.TwoPointers.Palindrome.exe
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointers.Palindrome\bin\Debug\net8.0\Algorithms.TwoPointers.Palindrome.deps.json
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointers.Palindrome\bin\Debug\net8.0\Algorithms.TwoPointers.Palindrome.runtimeconfig.json
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointers.Palindrome\bin\Debug\net8.0\Algorithms.TwoPointers.Palindrome.dll
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointers.Palindrome\bin\Debug\net8.0\Algorithms.TwoPointers.Palindrome.pdb
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointers.Palindrome\obj\Debug\net8.0\Algorithms.TwoPointers.Palindrome.dll
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointers.Palindrome\obj\Debug\net8.0\refint\Algorithms.TwoPointers.Palindrome.dll
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointers.Palindrome\obj\Debug\net8.0\Algorithms.TwoPointers.Palindrome.pdb
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointers.Palindrome\obj\Debug\net8.0\Algorithms.TwoPointers.Palindrome.genruntimeconfig.cache
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointers.Palindrome\obj\Debug\net8.0\ref\Algorithms.TwoPointers.Palindrome.dll
