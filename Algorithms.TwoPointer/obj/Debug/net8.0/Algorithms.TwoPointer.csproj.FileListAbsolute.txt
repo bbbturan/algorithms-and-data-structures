@@ -1,0 +1,15 @@
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointer\bin\Debug\net8.0\Algorithms.TwoPointer.exe
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointer\bin\Debug\net8.0\Algorithms.TwoPointer.deps.json
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointer\bin\Debug\net8.0\Algorithms.TwoPointer.runtimeconfig.json
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointer\bin\Debug\net8.0\Algorithms.TwoPointer.dll
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointer\bin\Debug\net8.0\Algorithms.TwoPointer.pdb
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointer\obj\Debug\net8.0\Algorithms.TwoPointer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointer\obj\Debug\net8.0\Algorithms.TwoPointer.AssemblyInfoInputs.cache
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointer\obj\Debug\net8.0\Algorithms.TwoPointer.AssemblyInfo.cs
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointer\obj\Debug\net8.0\Algorithms.TwoPointer.csproj.CoreCompileInputs.cache
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointer\obj\Debug\net8.0\Algorithms.TwoPointer.sourcelink.json
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointer\obj\Debug\net8.0\Algorithms.TwoPointer.dll
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointer\obj\Debug\net8.0\refint\Algorithms.TwoPointer.dll
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointer\obj\Debug\net8.0\Algorithms.TwoPointer.pdb
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointer\obj\Debug\net8.0\Algorithms.TwoPointer.genruntimeconfig.cache
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointer\obj\Debug\net8.0\ref\Algorithms.TwoPointer.dll
