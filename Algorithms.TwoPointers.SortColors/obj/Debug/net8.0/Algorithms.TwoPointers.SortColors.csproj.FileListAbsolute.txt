@@ -1,0 +1,15 @@
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointers.SortColors\bin\Debug\net8.0\Algorithms.TwoPointers.SortColors.exe
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointers.SortColors\bin\Debug\net8.0\Algorithms.TwoPointers.SortColors.deps.json
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointers.SortColors\bin\Debug\net8.0\Algorithms.TwoPointers.SortColors.runtimeconfig.json
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointers.SortColors\bin\Debug\net8.0\Algorithms.TwoPointers.SortColors.dll
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointers.SortColors\bin\Debug\net8.0\Algorithms.TwoPointers.SortColors.pdb
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointers.SortColors\obj\Debug\net8.0\Algorithms.TwoPointers.SortColors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointers.SortColors\obj\Debug\net8.0\Algorithms.TwoPointers.SortColors.AssemblyInfoInputs.cache
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointers.SortColors\obj\Debug\net8.0\Algorithms.TwoPointers.SortColors.AssemblyInfo.cs
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointers.SortColors\obj\Debug\net8.0\Algorithms.TwoPointers.SortColors.csproj.CoreCompileInputs.cache
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointers.SortColors\obj\Debug\net8.0\Algorithms.TwoPointers.SortColors.sourcelink.json
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointers.SortColors\obj\Debug\net8.0\Algorithms.TwoPointers.SortColors.dll
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointers.SortColors\obj\Debug\net8.0\refint\Algorithms.TwoPointers.SortColors.dll
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointers.SortColors\obj\Debug\net8.0\Algorithms.TwoPointers.SortColors.pdb
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointers.SortColors\obj\Debug\net8.0\Algorithms.TwoPointers.SortColors.genruntimeconfig.cache
+C:\Users\BetulTuran\Repos\data structures\algorithms-and-data-structures\Algorithms.TwoPointers.SortColors\obj\Debug\net8.0\ref\Algorithms.TwoPointers.SortColors.dll
