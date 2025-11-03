@@ -1,0 +1,38 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+trigger:
+- main
+
+pool:
+  vmImage: ubuntu-latest
+
+steps:
+- task: DockerInstaller@0
+  displayName: 'Ensure Docker is installed'
+
+- script: |
+    echo "Pulling Invicti CLI image..."
+    docker pull invicti/scan-cli:latest
+  displayName: 'Pull Scan CLI Image'  
+
+- script: |
+    echo "Running Invicti Scan CLI..."
+    docker run --rm \
+      -e INVICTI_API_BASE_URL="$(INVICTI_API_BASE_URL)" \
+      -e INVICTI_API_TOKEN="$(INVICTI_API_TOKEN)" \
+      -e INVICTI_TARGET_ID="$(INVICTI_TARGET_ID)" \
+      -e INVICTI_SCAN_AGENT="$(INVICTI_SCAN_AGENT)" \
+      invicti/scan-cli:latest \
+      /home/invicti/scancli/ScanCLI
+  displayName: 'Run Invicti Scan'
+  failOnStderr: true
+
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    ArtifactName: 'scan-results'
+    publishLocation: 'Container'
+  displayName: 'Publish Scan Results'
